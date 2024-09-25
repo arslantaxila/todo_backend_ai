@@ -1,0 +1,23 @@
+/project-root
+|-- /controllers
+|   |-- userController.js
+|   |-- taskController.js
+|-- /middlewares
+|   |-- authMiddleware.js
+|-- /models
+|   |-- userModel.js
+|   |-- taskModel.js
+|-- /services
+|   |-- jwtService.js
+|-- /utils
+|   |-- validation.js
+|-- /config
+|   |-- database.js
+|-- /routes
+|   |-- userRoutes.js
+|   |-- taskRoutes.js
+|-- /migrations
+|   |-- createTables.sql
+|-- app.js
+|-- package.json
+|-- .env
